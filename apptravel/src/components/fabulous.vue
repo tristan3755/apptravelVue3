@@ -12,12 +12,6 @@
     
 <script setup>
 
-function scroll(){
-let valeur=document.querySelector('.landingVideoContener')
-let valeurScroll=valeur.clientHeight
-window.scrollTo(0,valeurScroll)
-
-}
 </script>
 
 <style scoped>
@@ -26,12 +20,6 @@ window.scrollTo(0,valeurScroll)
     width: 100%;
     min-height: 100vh;
     position: relative;
-}
-#videoLanding{
-    position: fixed;
-    width:100%;
-    min-height: 100vh;
-    font-family: 'Poppins', sans-serif;
 }
 .landingTitle{
     background-color: white;
