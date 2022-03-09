@@ -33,8 +33,8 @@
     align-items: center;
     justify-content: center;
     margin-top: 0;
-    font-size:15vmin;
-    letter-spacing: 8vmin;
+    font-size:7rem;
+    letter-spacing: 5rem;
     text-align: center;
     font-weight: bold;
     mix-blend-mode:screen;
